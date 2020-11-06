@@ -1,0 +1,11 @@
+### Python ###
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+venv
+
+### Databases
+databases
